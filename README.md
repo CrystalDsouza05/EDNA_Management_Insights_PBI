@@ -24,4 +24,6 @@ These visuals offer clear trend identification, comparative insights, and operat
 **Snapshots of the Dashboard Page**
 ![image](https://github.com/user-attachments/assets/ec3d54ba-63fa-4640-a0d3-98ad1132ad28)
 
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/f04a07aa-55f4-4019-90c7-73638b77d568)
 
