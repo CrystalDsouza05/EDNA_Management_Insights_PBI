@@ -6,6 +6,7 @@ This dashboard enables dynamic financial analysis using interactive numeric para
 ## Key Features
 
 **Numeric Slicers:** Adjust Revenue, Cost, and Profit filters dynamically. Selecting a metric updates all visuals accordingly.
+
 **Dynamic Chart Titles:** Automatically adapt based on the chosen financial metric for clearer insights.
 
 **Visual Breakdown** 
